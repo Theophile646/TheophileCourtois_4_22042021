@@ -3,7 +3,7 @@
 La Chouette Agence is the fourth project of my Web Developper formation with Openclassrooms. 
 The code was already provided. I did an audit using lighthouse to propose and apply my recommendations in order to improve speed, accessibility and SEO. 
 
-## Built with
+## 🛠 Built with
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
